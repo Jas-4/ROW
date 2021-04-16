@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-weight: 800px;
+     font-style: bold;
+    line-height: 1.6;
+    font-size: 0.9rem;
+}
+.extra h2{
+    font-size: 1.1rem;
+    margin:20px 0 15px 0;
+    font-weight: bold;
+    line-height: 1.1;
+    word-spacing: 4px;
+}
+.header{
+    width: 100%;
+    height:60%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    clip-path:polygon(100% 0%,100% 77%, 50% 100%,0% 75%,0% 0%);
+    position: relative;
+}
+.navbar:before{
+    content: "";
+    position: absolute;
+    top:0%;
+    bottom:0%;
+    left:20%;
+    right: 0%;
+    opacity: 0.4;
+    z-index: -1;
+}
+
+.navbar-brand{
+    color:navy;
+    text-decoration: underline;
+    margin-left:20px;
+    margin-top: 20px;
+}
+.nav-item a{
+    margin-right: 50px;
+    color:black;
+    font-size: 20px;
+    bottom: 100px;
+    text-align:center ;
+}
+.cll{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+.extradiv{
+    width: 100%;
+    height: 40%;
+    margin: 40px 0;
+    text-align: center;
+
+}
+.extra{
+    background-color:lightblue;
+     padding:70px;
+     border-radius: 3px;
+     transition: 0.3s;
+    }
+    .extra:hover{
+        box-shadow:-30px  30px 15px  rgba(20, 32, 194, 0.3);
+    
+    }
+
+.abc h4{
+    margin-top:40px ;
+    margin-bottom: 20px;
+    font-size: x-large;
+    text-decoration: underline;
+}
+.abc h3{
+    background-color: lightblue;
+    
+}
