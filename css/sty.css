@@ -36,7 +36,7 @@ p{
     z-index: -1;
 }
 .logo{
-    margin-left:-80px;
+    margin-left:-50px;
     width: 20%;
     display:flex;
     justify-content: left;
@@ -44,7 +44,7 @@ p{
 .logo img{
     width: 120px;
     height: 80px;
-    margin-left:-15px;
+    margin-left:-5px;
 }
 .navbar-brand{
     color: black;
@@ -86,7 +86,7 @@ p{
         width:100%;
         height:300px;
         text-align: center;
-        margin-top: -280px;
+        margin-top: -200px;
     }
     .rr h1{
         color: darkred;
