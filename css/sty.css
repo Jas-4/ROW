@@ -36,7 +36,7 @@ p{
     z-index: -1;
 }
 .logo{
-    margin-left:-100px;
+    margin-left:-80px;
     width: 20%;
     display:flex;
     justify-content: left;
