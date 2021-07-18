@@ -116,7 +116,7 @@ p{
     }
    
     .header{
-        width:115%;
+        width:125%;
         height:100%;
         /* background-image: url("images/books.jpg"); */
         background-repeat: no-repeat;
@@ -176,4 +176,39 @@ p{
     position: relative;
     text-align:center; 
 }
+.extradiv{
+    margin-top:50px;
+    width: 100%;
+    height: 100%;
+    margin: 40px 0;
+    text-align: center;
+}
+.extra{
+    background-color:white;
+     padding:70px;
+     border-radius: 3px;
+     transition: 0.3s;
+     display: block;
+    }
+    .extra:hover{
+        box-shadow:-30px  30px 15px  rgba(20, 32, 194, 0.3);
+    }
+    .rr{
+        background:linear-gradient(#ff9966,#ff5e62);
+        width:125%;
+        height:850px;
+        text-align: center;
+        margin-top: 550px;
+    }
+    .rr h1{
+        color: darkred;
+        text-decoration: underline;
+    }
+    .rr h2{
+        text-decoration: underline;
+    }
+    .rr p{
+        color: darkred;
+        font-size: 20px;
+    }
 }
