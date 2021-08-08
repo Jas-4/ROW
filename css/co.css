@@ -48,8 +48,7 @@ p{
 
 .navbar-brand{
     color:black;
-    text-decoration: underline;
-    margin-left:10px;
+    margin-left:-40px;
     margin-top: 10px;
 }
 .nav-item a{

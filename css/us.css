@@ -26,7 +26,7 @@
     z-index: -1;
 }
 .logo{
-    margin-left:-50px;
+    margin-left:-120px;
     width: 20%;
     display:flex;
     justify-content: left;
@@ -37,15 +37,15 @@
    
 }
 .navbar-brand h1{
-    margin-right: 300px;
+    margin-right: 600px;
+        margin-left: -100px;
   text-align: center;
     color: teal;
     text-decoration: none;
 }
 .navbar-brand{
-    color: black;
-  
-    margin-left: -50px;
+    color: black; 
+    margin-left: -30px;
 }
 .nav-item a{
     color: black;
@@ -132,6 +132,7 @@
         .logo img{
             width: 80px;
             height: 70px;
+            margin-left: 70px;
            
         }
         .navbar:before{
@@ -151,7 +152,7 @@
             color: darkred;
             text-decoration: none;
             font-size: 35px;
-            margin-top: -50px;
+            margin-top: -20px;
             
         }
        

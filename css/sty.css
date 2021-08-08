@@ -36,7 +36,7 @@ p{
     z-index: -1;
 }
 .logo{
-    margin-left:-50px;
+    margin-left:-120px;
     width: 20%;
     display:flex;
     justify-content: left;
@@ -47,14 +47,13 @@ p{
    
 }
 .navbar-brand h1{
-    margin-right: 300px;
+    margin-right: 600px;
   text-align: center;
     color: darkred;
     text-decoration: none;
 }
 .navbar-brand{
     color: black;
-  
     margin-left: -50px;
 }
 .nav-item a{
@@ -126,13 +125,16 @@ p{
     }
       
     .logo{
-        width: 20%;
+        width:20%;
         display:block ;
         justify-content: left;
+    
     }
     .logo img{
-        width: 70px;
+        width: 100px;
         height: 50px;
+        margin-left: 80px;
+        
        
     }
     .navbar:before{
@@ -147,11 +149,11 @@ p{
     }
     .navbar-brand h1{
         margin-right: 300px;
+        margin-left: 200px;
       text-align: center;
-        color: darkred;
+        color:darkred;
         text-decoration: none;
         font-size: 25px;
-        margin-top: -50px;
         
     }
    
