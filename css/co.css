@@ -65,7 +65,7 @@ p{
 }
 .extradiv{
     width: 100%;
-    height: 40%;
+    height: 70%;
     margin: 40px 0;
     text-align: center;
 
@@ -75,11 +75,26 @@ p{
      padding:70px;
      border-radius: 3px;
      transition: 0.3s;
+     margin-left: 20%;
+     text-align: left;
+     display: block;
+     width: 100%;
+     height: 100%;
+}
+    .aab img{
+        width:90%;
+        height: 140%;
+        text-align: center;
+         
     }
-    .extra:hover{
-        box-shadow:-30px  30px 15px  rgb(170, 113, 170);
+.aabc img {
+    width: 100%;
+    height: 90%;
+}
+
     
-    }
+
+    
 
 .abc h4{
     margin-top:40px ;
