@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+h3{
+    font-size: 30px;
+}
 
 .header{
     width: 100%;
@@ -75,7 +77,7 @@
     color:navy;
     position: relative;
     text-align:left; 
-    font-size: 25px;
+    font-size: 35px;
 }
 .serviceoffers{
     background:#f7f7f9;
