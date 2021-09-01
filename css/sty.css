@@ -163,7 +163,7 @@ p{
    
       
     .navbar-brand{
-        color: black;
+        color:crimson;
         margin-left: -10px;
           display: flex;
     }
@@ -171,11 +171,14 @@ p{
     
     .nav-item a{
         color: black;
+        margin-top: -15px;
         margin-right: 30px;
-        font-size: 18px;
-    margin-bottom: -5%;
+        margin-left: -10px;
+         font-style: bold;
+         margin-bottom: -5px;
         
-}
+
+    }
 .header-section{
     margin-top:80px;
     width: 100%;
